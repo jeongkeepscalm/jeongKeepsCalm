@@ -4,6 +4,10 @@ Welcome to my GitHub profile! I'm glad you're here.
 
 ## About Me
 - 🌐 My blog: [jeongkeepscalm.github.io](https://jeongkeepscalm.github.io)
+- 🎓 Currently studying Computer Science at Korea National Open University
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <img src="https://img.shields.io/badge/Korea%20National%20Open%20University-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+  </div>
 - 📚 Currently learning:
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
