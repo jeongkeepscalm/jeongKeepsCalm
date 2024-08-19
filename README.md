@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## My blog
-jeongkeepscalm.github.io
+<https://jeongkeepscalm.github.io>
 
 <!--
 **jeongkeepscalm/jeongkeepscalm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
