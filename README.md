@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm glad you're here.
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/Korea%20National%20Open%20University-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
   </div>
+- 💻 Working as a web developer for a year and a half
 - 📚 Currently learning:
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
