@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm glad you're here.
 ## About Me
 - 🌐 My blog: [jeongkeepscalm.github.io](https://jeongkeepscalm.github.io)
 - 📚 Currently learning:
-- 
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
       <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
